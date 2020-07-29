@@ -2,3 +2,4 @@ hello git
 测试am
 测试diff
 I am temp
+我是开发一半的功能
